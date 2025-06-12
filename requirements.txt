@@ -4,7 +4,7 @@ numpy>=1.21.0
 scikit-learn>=1.2.0
 
 # Deep Learning (incluye tf.keras)
-tensorflow==2.18.0
+tensorflow==2.13.0
 protobuf==3.20.*
 
 # Visualización
